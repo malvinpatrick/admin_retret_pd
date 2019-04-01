@@ -1,0 +1,2 @@
+databse menggunakan mySQL, web base
+menggunakan web-base, code igniter
